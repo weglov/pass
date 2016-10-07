@@ -87,6 +87,7 @@ label {
 		width: 50%;
 		vertical-align: top;
 		box-sizing: border-box;
+		position: relative;
 		padding: 25px;
 	}
 	.image img {
@@ -96,3 +97,29 @@ label {
 		border-radius: 10px;
 		box-shadow: 0px 15px 38px -19px #000;
 	}
+	.image_wrap {
+		position: relative;
+	}
+	.image_wrap .canvas {
+		    transform: scale(0.55);
+		    border-radius: 25px;
+		    overflow: hidden;
+		    height: 660px;
+		    position: absolute;
+		    top: 2px;
+		    transform-origin: top left;
+		    left: 2px;
+	}
+	#img {
+		display: none;
+	}
+#range_wrap {
+	display: none;
+}
+
+.error {
+    border: 1px solid red;
+    margin: 6px;
+    display: block;
+    padding: 10px;
+}

@@ -73,3 +73,60 @@
 [06-Oct-2016 17:45:48 Europe/Moscow] PHP Warning:  imageftbbox() [<a href='function.imageftbbox'>function.imageftbbox</a>]: Could not find/open font in /home/ren2015/public_html/pass/index.php on line 31
 [06-Oct-2016 17:45:59 Europe/Moscow] PHP Warning:  imageftbbox() [<a href='function.imageftbbox'>function.imageftbbox</a>]: Could not find/open font in /home/ren2015/public_html/pass/index.php on line 31
 [06-Oct-2016 17:46:04 Europe/Moscow] PHP Warning:  imageftbbox() [<a href='function.imageftbbox'>function.imageftbbox</a>]: Could not find/open font in /home/ren2015/public_html/pass/index.php on line 31
+[07-Oct-2016 12:38:33 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/ren2015/public_html/pass/index.php on line 33
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:38:58 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:43 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:39:49 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:40:14 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:40:54 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ren2015/public_html/pass/index.php on line 21
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:41:02 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:50:54 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagecreatefromstring() [<a href='function.imagecreatefromstring'>function.imagecreatefromstring</a>]: Empty string or invalid image in /home/ren2015/public_html/pass/index.php on line 20
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 47
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 37
+[07-Oct-2016 12:51:48 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/ren2015/public_html/pass/index.php on line 55
