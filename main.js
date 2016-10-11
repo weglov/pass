@@ -4,7 +4,16 @@ $(document).ready(function () {
 });
 
 var canvas = new fabric.Canvas('photo');
-
+if ($('#img').val()) {
+	$('#newphoto').show();
+	$('.newphoto').hide();
+	$('#get').show();
+}
+$('#newphoto').click(function(event) {
+	$('#newphoto').hide();
+	$('#get').hide();
+	$('.newphoto').show();
+});
 // var clippingRect = new fabric.Rect({
 //     left: 0,
 //     top: 0,
@@ -15,7 +24,7 @@ var canvas = new fabric.Canvas('photo');
 // });
 
 // canvas.add(clippingRect);
-canvas.setOverlayImage('pass_empty.png', canvas.renderAll.bind(canvas), {
+canvas.setOverlayImage('pass_empty.png?1', canvas.renderAll.bind(canvas), {
             originX: 'left',
             originY: 'top'
         })
@@ -73,6 +82,17 @@ function handleImage(e) {
     reader.readAsDataURL(e.target.files[0]);
 }
 $('.canvas').hide();
+$('.canvas').hover(function() {
+    canvas.setOverlayImage('pass_empty_face.png?1', canvas.renderAll.bind(canvas), {
+            originX: 'left',
+            originY: 'top'
+        })
+}, function() {
+    canvas.setOverlayImage('pass_empty.png?1', canvas.renderAll.bind(canvas), {
+            originX: 'left',
+            originY: 'top'
+        })
+});
 $('form').submit(function(event) {
 	activeImg  ? $('#img').val(canvas.toDataURL('image/png')) : ''
 });

@@ -123,3 +123,40 @@ label {
     display: block;
     padding: 10px;
 }
+#get {
+		display: none;
+}
+#get a {
+	cursor: pointer;
+	border: none;
+	display: block;
+	text-decoration: none;
+	box-sizing: border-box;
+	text-align: center;
+    background: #f68b1f;
+    color: #fff;
+    border-radius: 11px;
+    padding: 11px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+header {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#newphoto {
+	    border: 1px solid #ccc;
+    padding: 8px;
+    cursor: pointer;
+        width: 100%;
+    box-sizing: border-box;
+    font-size: 14px;
+    width: 300px;
+	display: none;
+}
